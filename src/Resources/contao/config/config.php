@@ -9,5 +9,5 @@
  */
 
 $GLOBALS['TinyMCE']['menu']['insert']['Insert'] = 'abbr lang | '. $GLOBALS['TinyMCE']['menu']['insert']['Insert'];
-$GLOBALS['TinyMCE']['external'][] = array('abbr'=> "/bundles/fippstinymceabbr/abbr/plugin.js");
+$GLOBALS['TinyMCE']['external'][] = array('abbr'=> "/bundles/fippstinymceabbr/plugin.js");
 
