@@ -19,8 +19,6 @@ use Fipps\TinymcepluginsBundle\FippsTinymcepluginsBundle;
 
 /**
  * Plugin for the Contao Manager.
- *
- * @author Aren Borchert
  */
 class Plugin implements BundlePluginInterface
 {

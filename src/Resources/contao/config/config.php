@@ -8,6 +8,8 @@
  * @license   LGPL 3.0+
  */
 
-$GLOBALS['TinyMCE']['menu']['insert']['Insert'] = 'abbr lang | '. $GLOBALS['TinyMCE']['menu']['insert']['Insert'];
-$GLOBALS['TinyMCE']['external'][] = array('abbr'=> "/bundles/fippstinymceabbr/abbr/plugin.js");
+$GLOBALS['TinyMCE']['menu']['insert']['Insert'] = 'abbr lang | '.$GLOBALS['TinyMCE']['menu']['insert']['Insert'];
+$GLOBALS['TinyMCE']['external'][]               = array(
+    'abbr' => "/bundles/fippstinymceabbr/abbr/plugin.js",
+);
 
